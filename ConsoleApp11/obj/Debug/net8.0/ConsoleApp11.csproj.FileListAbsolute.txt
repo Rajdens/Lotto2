@@ -1,0 +1,14 @@
+C:\Users\radek\source\repos\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.exe
+C:\Users\radek\source\repos\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.deps.json
+C:\Users\radek\source\repos\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.runtimeconfig.json
+C:\Users\radek\source\repos\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.dll
+C:\Users\radek\source\repos\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.pdb
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.dll
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\refint\ConsoleApp11.dll
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.pdb
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\radek\source\repos\ConsoleApp11\obj\Debug\net8.0\ref\ConsoleApp11.dll
